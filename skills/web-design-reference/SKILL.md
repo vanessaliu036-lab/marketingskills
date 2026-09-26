@@ -563,7 +563,30 @@ If the project has approved typography:
 
 ---
 
-# 12. Final Rule
+
+# 12. Installed Named Style Packs
+
+## Refero: OpenAI Editorial System
+
+Reference:
+`references/refero-openai-editorial.md`
+
+Source style ID:
+`dc541737-8bf2-4b31-b729-0352f696e82f`
+
+Use when the user asks for:
+- OpenAI-like editorial restraint
+- research-lab / publication-like clarity
+- typography-led premium hero sections
+- quiet hairline structure
+- asymmetric editorial layouts
+- low-chrome product or brand storytelling
+
+For OCC, use this pack only as a structural reference. OCC brand colors, real coffee/origin photography, brand typography, and B2B conversion logic override the source palette and brand identity.
+
+---
+
+# 13. Final Rule
 
 The workflow is:
 
