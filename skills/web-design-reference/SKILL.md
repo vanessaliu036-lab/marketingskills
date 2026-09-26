@@ -571,6 +571,9 @@ If the project has approved typography:
 Reference:
 `references/refero-openai-editorial.md`
 
+Design tokens:
+`references/refero-openai-editorial.tokens.json`
+
 Source style ID:
 `dc541737-8bf2-4b31-b729-0352f696e82f`
 
